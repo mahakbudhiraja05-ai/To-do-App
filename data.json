@@ -8,8 +8,8 @@
           "files": [
             { "name": "CLICK.html", "path": "CLASS/ANGULARJS/CLICK.html" },
             { "name": "index.html", "path": "CLASS/ANGULARJS/index.html" },
-            { "name": "index2.html", "path": "CLASS/ANGULARJS/index2.html"},
-            { "name": "index3.html", "path": "CLASS/ANGULARJS/index3.html" }    
+            { "name": "index2.html", "path": "CLASS/ANGULARJS/index2.html" },
+            { "name": "index3.html", "path": "CLASS/ANGULARJS/index3.html" }
           ]
         },
         {
@@ -20,14 +20,14 @@
             { "name": "task3", "path": "CLASS/jquery/task3" }
           ]
         },
-       {
-        "name": "nodejs",
-        "files": [
-            { "name": "public", "path": "CLASS/nodejs/public.index.html"},
-            { "name": "server.js", "path": "CLASS/nodejs/server.js"}
-        ]
-       }
-    ]
+        {
+          "name": "nodejs",
+          "files": [
+            { "name": "public/index.html", "path": "CLASS/nodejs/public/index.html" },
+            { "name": "server.js", "path": "CLASS/nodejs/server.js" }
+          ]
+        }
+      ]
     },
     {
       "name": "LAB",
@@ -36,13 +36,12 @@
         { "name": "exp2", "path": "LAB/exp2" },
         { "name": "exp3", "path": "LAB/exp3" },
         { "name": "exp4", "path": "LAB/exp4" },
-        { "name": "exp1", "path": "LAB/exp5" },
+        { "name": "exp5", "path": "LAB/exp5" },
         { "name": "exp6", "path": "LAB/exp6" },
-        { "name": "exp1", "path": "LAB/exp7" },
-        { "name": "exp1", "path": "LAB/exp8" },
-        { "name": "exp1", "path": "LAB/exp9" },
-        { "name": "exp1", "path": "LAB/exp10" },
-       
+        { "name": "exp7", "path": "LAB/exp7" },
+        { "name": "exp8", "path": "LAB/exp8" },
+        { "name": "exp9", "path": "LAB/exp9" },
+        { "name": "exp10", "path": "LAB/exp10" }
       ]
     }
   ]
