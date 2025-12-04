@@ -36,12 +36,7 @@
         { "name": "exp2", "path": "LAB/exp2" },
         { "name": "exp3", "path": "LAB/exp3" },
         { "name": "exp4", "path": "LAB/exp4" },
-        { "name": "exp4", "path": "LAB/exp5" },
-        { "name": "exp6", "path": "LAB/exp6" },
-        { "name": "exp4", "path": "LAB/exp7" },
-        { "name": "exp4", "path": "LAB/exp8" },
-        { "name": "exp4", "path": "LAB/exp9" },
-        { "name": "exp4", "path": "LAB/exp10" },
+        { "name": "exp6", "path": "LAB/exp6" }
        
       ]
     }
